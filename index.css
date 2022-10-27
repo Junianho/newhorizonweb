@@ -20,82 +20,6 @@ header {
     padding-top: 45px;
     padding-bottom: 40px;
 }
-/*.cont {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    background-color: rgb(80, 226, 43);
-    width:100%;
-    height: 80px;
-}
-.one {
-    background-color: blue;
-    height: 80px;
-    width: 13%;
-    position: relative;
-}
-.two {
-    background-color: rgb(119, 0, 255);
-    height: 80px;
-    width: 13%;
-    position: relative;
-}
-.three {
-    background-color: rgba(0, 255, 213, 0.301);
-    height: 80px;
-    width: 13%;
-    position: relative;
-}
-.four {
-    background-color: rgb(255, 0, 140);
-    height: 80px;
-    width: 13%;
-    position: relative;
-}
-.five {
-    background-color: rgba(255, 238, 0, 0.959);
-    height: 80px;
-    width: 13%;
-    position: relative;
-}
-a {
-    margin-left: 13px;
-    color: white;
-    position: absolute;
-    top: 50px;
-    left: 40px;
-    margin: -20px 0 0 -20px;
-    text-decoration: none;
-}
-.cont .one a {
-    left: 97px;
-}
-.cont .five a {
-    left: 70px;
-}
-.cont .four a {
-    left: 35px;
-}
-.three :hover {
-color:brown;
-}
-
-.slider-container{
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-    /* flex-wrap: wrap; */
-    /* overflow-x: scroll;
-    scroll-snap-type: x mandatory;
-} 
-
-.slider-container img {
-    height: 400px;
-    width: 100%;
-    flex-shrink: 0;
-} */
 .nav-list {
     display: flex;
     background-color:rgb(0, 89, 255);
@@ -111,13 +35,6 @@ color:brown;
     list-style-type: none;
 }
 .nav-list li a{
-    /* margin: 10px;
-    font-size: 15px;
-    align-items:center;
-    flex-grow: 1;
-    flex-shrink: 1;
-    width: 50%;
-    height: 50px; */ 
     text-decoration: none;
     color:white;
 }
@@ -139,23 +56,10 @@ color:brown;
     text-align: center;
     margin-left: 80px;
 }
-/* .gbefun {
-    float: right;
-    margin-top: -38px;
-    margin-right: 200px;
-} */
 .size {
     font-size:40px;
-    /* margin-top: -10px;
-    float: right;
-    margin-right: 639px; */
     color: yellow;
 }
-/* .ok {
-    margin-top: -35.6px;
-    float: right;
-    margin-right: 516px; 
-} */
 .slate-list {
     float: right;
     display:flex;
@@ -257,21 +161,7 @@ display: none;
     width: 60%;
     padding-top: 20px;
 }
-/* @media screen and (min-width: 320px) and
- (max-width: 767px) {
-.right {
-    background-color: rgb(0, 0, 0);
-    height: 38px;
-    width: 100%;
-    font-size: x-large;
-    padding-top: 9px;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 15px;
-   }
-} */
 
-/* reponsive  table*/
 @media(max-width: 960px){
     .right{
     background-color: rgb(0, 0, 0);
